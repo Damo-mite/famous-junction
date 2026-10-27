@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://damoh.github.io/famous-junction/sitemap.xml

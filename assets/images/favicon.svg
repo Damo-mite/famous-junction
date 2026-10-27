@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img">
+  <title>Famous Junction</title>
+  <rect width="64" height="64" rx="14" fill="#FBF6EE"/>
+  <circle cx="32" cy="14" r="4" fill="#F8862D" stroke="#2C130F" stroke-width="2.4"/>
+  <path d="M12 36c0-12 8.8-20 20-20s20 8 20 20" fill="#F8862D" stroke="#2C130F" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M8 36h48v5.5c0 2.4-2.2 4.5-5 4.5H13c-2.8 0-5-2.1-5-4.5V36z" fill="#F8862D" stroke="#2C130F" stroke-width="2.4" stroke-linejoin="round"/>
+</svg>
